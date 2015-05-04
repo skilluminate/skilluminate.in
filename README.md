@@ -1,7 +1,6 @@
-#Skilluminate.in
+#[Skilluminate.in](http://skilluminate.in/)
 
-##Hosted on Awardspace:
+##Skilluminate is a training company. Our mission is to train our nation's talent to deliver world-class performance.
 
-* Login URL: https://cp1.awardspace.net/beta/
-* Client ID: 1859618
-* Login Email: skilluminate.in@gmail.com
+###Our passion is to build professionals and skill existing man force within organisations, so that they drive better results by enhancing quality and improving productivity.
+
